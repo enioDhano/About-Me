@@ -1,2 +1,2 @@
-# eniodhano
-this is a simple project
+# My Profile | About 
+"I am a Junior Python Full Stack Developer, equipped with a diverse programming skill-set including Python, Django, HTML, CSS, SQL, and Software Testing. I am passionate about science and technology, my key strengths are communication, dedication, and creativity, which I believe make me a great candidate. I am enthusiastic about this career path and am committed to learning, evolving, and working hard to be a valuable team player who adds value to the company."
